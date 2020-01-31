@@ -40,9 +40,11 @@ Name of file must start with id of a note and an empty space.
 
 ### Test mode and LED support configuration
 If your output device doesn't support LED, change output_device value to ""
+
 In test mode script plays sounds to test_audio_devices instead of audio_devices.
 
 max_note_index is used to turn off LED lights when program starts.
+
 test_note is id of a note that switches test mode.
 
 ### Finding information about your setup
