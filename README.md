@@ -3,10 +3,6 @@ Python script that can play audio simultaneously on multiple audio devices. It u
 
 ## Usage Guide
 
-Script plays sounds on selected audio devices when MIDI note is received
-It can be used with Launchpads or MIDI Keyboards
-
-
 ### Example config.json
 ```
 {
